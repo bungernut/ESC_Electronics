@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ESC_Electronics_Library")(type "KiCad")(uri "${KIPRJMOD}/ESC_Electronics_Library.pretty")(options "")(descr ""))
+)
