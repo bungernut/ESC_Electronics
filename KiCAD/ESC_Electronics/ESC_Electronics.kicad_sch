@@ -3644,7 +3644,7 @@
     (uuid e6c36a61-be9b-4e0e-80a4-d48420033ad2)
     (property "Reference" "U2" (id 0) (at 64.77 66.04 0))
     (property "Value" "SiPhotodiode" (id 1) (at 64.77 80.01 0))
-    (property "Footprint" "Connector_Wire:SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm" (id 2) (at 64.77 74.93 0)
+    (property "Footprint" "Connector_Wire:SolderWire-1sqmm_1x02_P7.8mm_D1.4mm_OD3.9mm" (id 2) (at 64.77 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 64.77 74.93 0)
@@ -4071,7 +4071,7 @@
       (reference "U1") (unit 1) (value "CR110") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/e6c36a61-be9b-4e0e-80a4-d48420033ad2"
-      (reference "U2") (unit 1) (value "SiPhotodiode") (footprint "Connector_Wire:SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm")
+      (reference "U2") (unit 1) (value "SiPhotodiode") (footprint "Connector_Wire:SolderWire-1sqmm_1x02_P7.8mm_D1.4mm_OD3.9mm")
     )
     (path "/97bce208-2f33-403f-8d9d-1ed134dba1dc"
       (reference "U3") (unit 1) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm_Socket")
