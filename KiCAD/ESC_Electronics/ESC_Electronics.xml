@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\bung\OneDrive - SLAC National Accelerator Laboratory\nEXO\ESC\ESC_Electronics\KiCAD\ESC_Electronics\ESC_Electronics.kicad_sch</source>
+    <date>8/18/2022 7:53:50 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ESC_Electronics.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>12V</value>
+      <footprint>ESC_Electronics_Library:6S-Battery-Holder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH23APC/247700?s=N4IgTCBcDaIEIAkwGYCCAFAwgWgHIBEQBdAXyA</datasheet>
+      <fields>
+        <field name="Digikey">BH23APC-ND</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Digikey" value="BH23APC-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34228cd0-5834-4760-a48e-9817277f4c28</tstamps>
+    </comp>
+    <comp ref="BT2">
+      <value>12V</value>
+      <footprint>ESC_Electronics_Library:6S-Battery-Holder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH23APC/247700?s=N4IgTCBcDaIEIAkwGYCCAFAwgWgHIBEQBdAXyA</datasheet>
+      <fields>
+        <field name="Digikey">BH23APC-ND</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Digikey" value="BH23APC-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dd72f02-b6f2-4371-8e74-710687794404</tstamps>
+    </comp>
+    <comp ref="BT3">
+      <value>12V</value>
+      <footprint>ESC_Electronics_Library:6S-Battery-Holder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH23APC/247700?s=N4IgTCBcDaIEIAkwGYCCAFAwgWgHIBEQBdAXyA</datasheet>
+      <fields>
+        <field name="Digikey">BH23APC-ND</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Digikey" value="BH23APC-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6c724bd-871c-4b96-ad60-48abf0daeab0</tstamps>
+    </comp>
+    <comp ref="BT4">
+      <value>12V</value>
+      <footprint>ESC_Electronics_Library:6S-Battery-Holder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH23APC/247700?s=N4IgTCBcDaIEIAkwGYCCAFAwgWgHIBEQBdAXyA</datasheet>
+      <fields>
+        <field name="Digikey">BH23APC-ND</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Digikey" value="BH23APC-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e79f55c1-e810-44e1-824d-9b498fd15616</tstamps>
+    </comp>
+    <comp ref="BT5">
+      <value>12V</value>
+      <footprint>ESC_Electronics_Library:6S-Battery-Holder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH23APC/247700?s=N4IgTCBcDaIEIAkwGYCCAFAwgWgHIBEQBdAXyA</datasheet>
+      <fields>
+        <field name="Digikey">BH23APC-ND</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Digikey" value="BH23APC-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c9cb1f7-4cfe-4e2f-968a-a94aba497a30</tstamps>
+    </comp>
+    <comp ref="BT6">
+      <value>12V</value>
+      <footprint>ESC_Electronics_Library:6S-Battery-Holder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH23APC/247700?s=N4IgTCBcDaIEIAkwGYCCAFAwgWgHIBEQBdAXyA</datasheet>
+      <fields>
+        <field name="Digikey">BH23APC-ND</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Digikey" value="BH23APC-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c31b158-03c8-400e-a04a-3cff04990dbb</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251</datasheet>
+      <fields>
+        <field name="Digikey">1276-6767-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-6767-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17adfa79-94f9-4b0d-a998-26c535de40db</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>open</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e064d213-94f9-445c-b444-34a0f2b53054</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1nF</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P5.00mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/C330C102JHR5TA/1465599</datasheet>
+      <fields>
+        <field name="Digikey">399-5094-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="399-5094-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c43b88c4-8909-4dde-a63c-d6374c47ed09</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251</datasheet>
+      <fields>
+        <field name="Digikey">1276-6767-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-6767-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75bdc966-fa8f-4b3c-aaff-f2527f373b5c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1nF</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P5.00mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/C330C102JHR5TA/1465599</datasheet>
+      <fields>
+        <field name="Digikey">399-5094-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="399-5094-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e713fdd-cb6b-45cd-920b-65c543e12350</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1pF</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P5.00mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/tdk-corporation/FA28C0G2A010CNU06/5866300</datasheet>
+      <fields>
+        <field name="Digikey">445-180733-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="445-180733-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0973795-48d6-4222-9434-7472eaf00111</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4700pF</value>
+      <footprint>Capacitor_THT:C_Disc_D14.5mm_W5.0mm_P7.50mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/tdk-corporation/CK45-B3DD472KYNNA/7383746</datasheet>
+      <fields>
+        <field name="Digikey">445-175513-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="445-175513-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8aec3d15-6258-41c2-aac6-4eeb7eb39d63</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNFNE/3888584</datasheet>
+      <fields>
+        <field name="Digikey">1276-2926-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-2926-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7245d18-e6a3-46bd-8ab9-3cfd9951f062</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KACNNNC/3886757</datasheet>
+      <fields>
+        <field name="Digikey">1276-1099-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-1099-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dda37672-dc82-4ea4-a37c-6ddd1e322af4</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNFNE/3888584</datasheet>
+      <fields>
+        <field name="Digikey">1276-2926-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-2926-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5e788d4-4d1e-49d1-8ff2-b61e48d403ed</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754</datasheet>
+      <fields>
+        <field name="Digikey">1276-1096-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-1096-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60881769-f936-48e6-841c-9722ac2af7ff</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754</datasheet>
+      <fields>
+        <field name="Digikey">1276-1096-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value="1276-1096-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dc3e12f-33f1-4ac6-a9e4-b05d4762460a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>RB751V-40</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panjit-international-inc/RB751V-40-AU-R1-000A1/14660018</datasheet>
+      <fields>
+        <field name="Digikey">3757-RB751V-40-AU_R1_000A1CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="3757-RB751V-40-AU_R1_000A1CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4279194e-067c-4776-b21d-089a47132a3b</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>RB751V-40</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panjit-international-inc/RB751V-40-AU-R1-000A1/14660018</datasheet>
+      <fields>
+        <field name="Digikey">3757-RB751V-40-AU_R1_000A1CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="3757-RB751V-40-AU_R1_000A1CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38e5d78e-7099-4620-853a-a7c768cc4e75</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>RB751V-40</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panjit-international-inc/RB751V-40-AU-R1-000A1/14660018</datasheet>
+      <fields>
+        <field name="Digikey">3757-RB751V-40-AU_R1_000A1CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="3757-RB751V-40-AU_R1_000A1CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e5d956d-689e-4923-b2a4-49f885bb93eb</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>RB751V-40</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panjit-international-inc/RB751V-40-AU-R1-000A1/14660018</datasheet>
+      <fields>
+        <field name="Digikey">3757-RB751V-40-AU_R1_000A1CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="3757-RB751V-40-AU_R1_000A1CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4c90e2d-2a8d-41c7-b5b6-d1a6b552b349</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>MM3Z6V8</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/onsemi/MM3Z6V8T1G/661901</datasheet>
+      <fields>
+        <field name="Digikey">MM3Z6V8T1GOSCT-ND</field>
+      </fields>
+      <libsource lib="Diode" part="MM3Zxx" description="300mW Zener Diode, SOD-323F"/>
+      <property name="Digikey" value="MM3Z6V8T1GOSCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>871be10a-e1e2-408d-bc0a-36aebd0de511</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>MM3Z6V8</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/onsemi/MM3Z6V8T1G/661901</datasheet>
+      <fields>
+        <field name="Digikey">MM3Z6V8T1GOSCT-ND</field>
+      </fields>
+      <libsource lib="Diode" part="MM3Zxx" description="300mW Zener Diode, SOD-323F"/>
+      <property name="Digikey" value="MM3Z6V8T1GOSCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aed98b0b-0f4f-41a9-a764-fe28a81b0fd1</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>def647aa-8960-49b9-b823-d0fab6c0678d</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f95c338-ddbe-44c7-ae2a-5ee0194ce757</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53b44506-81a3-4fad-a1ee-78e6353e9837</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d507c87-0189-4891-96f3-56b570170cf7</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>DiodeFeedThru</value>
+      <footprint>ESC_Electronics_Library:DiodeFeedThru</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00bd86b5-c958-4d29-bf62-1fb44128ae69</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>-1000VDC</value>
+      <footprint>ESC_Electronics_Library:MHV Wire Conn</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/rf-industries/RHV-116/13159383</datasheet>
+      <fields>
+        <field name="Digikey">2737-RHV-116-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value="2737-RHV-116-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c12c78b5-fdc2-4797-b9e7-98d83be368c0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Test Input</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/amphenol-rf/031-5640/3593524</datasheet>
+      <fields>
+        <field name="Digikey">ARF2005-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value="ARF2005-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f8341ae-d131-4079-a6db-615d623d29ea</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>CA probe</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b6a6e45-e27e-4b76-bb9a-fd1254a9b44c</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>DC Power</value>
+      <footprint>TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x03_P3.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a4bb8d1-0947-451e-935a-8111de09a760</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Output</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> https://www.digikey.com/en/products/detail/amphenol-rf/031-5640/3593524</datasheet>
+      <fields>
+        <field name="Digikey">ARF2005-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value="ARF2005-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>217f7f6c-b52e-4f8a-9ae8-0fd34dbc41f4</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Barrel_Jack</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987</datasheet>
+      <fields>
+        <field name="Digikey">839-1580-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Digikey" value="839-1580-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35cfbf87-dcaf-4d5c-832e-d9611d138f98</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>-6V</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9130d071-ea24-455f-bfb6-ea618ccf9d3d</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>+6V</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b8e1514-bd1e-40e2-9b0d-0fe718bf9e9b</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>L_Small</value>
+      <footprint>Inductor_THT:L_Radial_D7.0mm_P3.00mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/bourns-inc/RLB0812-101KL/2561301</datasheet>
+      <fields>
+        <field name="Digikey">RLB0812-101KL-ND</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Digikey" value="RLB0812-101KL-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d7863b7-f00b-4dbe-87ea-68fac5c86730</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MMBT3906</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/micro-commercial-co/MMBT3906-TP/819631</datasheet>
+      <fields>
+        <field name="Digikey">MMBT3906-TPCT-ND</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="MMBT3906" description="-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23"/>
+      <property name="Digikey" value="MMBT3906-TPCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d11705b-a433-4805-b2d5-d25a8b067581</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panjit-international-inc/MMBT3904-R1-00001/14660657</datasheet>
+      <fields>
+        <field name="Digikey">3757-MMBT3904_R1_00001CT-ND</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="Digikey" value="3757-MMBT3904_R1_00001CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>756ce657-d19b-4bbb-bf95-453f4716a829</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>open</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27941f35-35a3-4138-b3d5-3ecc6b368416</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/te-connectivity-passive-product/35224R7JT/5245115</datasheet>
+      <fields>
+        <field name="Digikey">A121265CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="A121265CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>493b2fa2-1445-4f28-a3bd-03125166a9c5</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/HVA05FA10M0/6195853</datasheet>
+      <fields>
+        <field name="Digikey">HVA05FA10M0CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="HVA05FA10M0CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9c0533d-0202-41f0-8376-66013cd8499f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/HVA05FA10M0/6195853</datasheet>
+      <fields>
+        <field name="Digikey">HVA05FA10M0CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="HVA05FA10M0CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>146fe700-c2d8-4e22-bcbd-58e49b24aa20</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~https://www.digikey.com/en/products/detail/stackpole-electronics-inc/HVA05FA100M/6195856?s=N4IgTCBcDaIBIDUCCAGArAMSQRhSgsgMIAqAtAHIAiABCALoC%2BQA</datasheet>
+      <fields>
+        <field name="Digikey">HVA05FA100MCT-ND </field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="HVA05FA100MCT-ND "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b6ed6c9-23b2-44e2-ac6c-c5f6fd84d8ff</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e23bdf77-1225-4064-a1b7-dcb41f651bc1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/te-connectivity-passive-product/35224R7JT/5245115</datasheet>
+      <fields>
+        <field name="Digikey">A121265CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="A121265CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21ccc60c-91cc-4549-b0cc-a7e03863a2ab</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/HVA05FA10M0/6195853</datasheet>
+      <fields>
+        <field name="Digikey">HVA05FA10M0CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="HVA05FA10M0CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed44f58b-3ee6-491b-9742-4846733cd8ae</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>open</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91550060-841e-4339-a223-2d8cc8600b58</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>47</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RPC0805JT47R0/3043899</datasheet>
+      <fields>
+        <field name="Digikey">RPC0805JT47R0</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RPC0805JT47R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bdceaac-5031-4d80-b190-597efb83f211</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0805FTD1K00/2240229</datasheet>
+      <fields>
+        <field name="Digikey">RNCP0805FTD1K00CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RNCP0805FTD1K00CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89472f15-7d63-4c0a-a177-2e5e888c6dc7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0134ff9d-bb66-45de-a657-ddc8e1d878d5</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/te-connectivity-passive-product/35224R7JT/5245115</datasheet>
+      <fields>
+        <field name="Digikey">A121265CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="A121265CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23fc087b-c6e6-4b67-b25a-d586b9d7ad01</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>2.94k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K94L/727717</datasheet>
+      <fields>
+        <field name="Digikey">311-2.94KCRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-2.94KCRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e774cb-0700-414d-80b1-3e63134e3e77</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT220R/1760238</datasheet>
+      <fields>
+        <field name="Digikey">RMCF0805FT220RCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RMCF0805FT220RCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe83636f-89c9-485d-ab02-e02751630578</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0805FTD1K00/2240229</datasheet>
+      <fields>
+        <field name="Digikey">RNCP0805FTD1K00CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RNCP0805FTD1K00CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08ea771f-5b86-4b95-8aa5-845a066d0627</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0805FTD1K00/2240229</datasheet>
+      <fields>
+        <field name="Digikey">RNCP0805FTD1K00CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RNCP0805FTD1K00CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>793bbd14-3e48-4895-bdc6-9126f82a61a0</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>20</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0805FTD20R0/2240199</datasheet>
+      <fields>
+        <field name="Digikey">RNCP0805FTD20R0CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RNCP0805FTD20R0CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35e04091-d3c4-4959-b689-891137a7570d</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>20</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0805FTD20R0/2240199</datasheet>
+      <fields>
+        <field name="Digikey">RNCP0805FTD20R0CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RNCP0805FTD20R0CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bc47063-7d30-4024-afff-71030f6b7217</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f7860b2-7a90-4ce8-b660-c6073c8003df</tstamps>
+    </comp>
+    <comp ref="TH1">
+      <value>PTC 200mA</value>
+      <footprint>Fuse:Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/bel-fuse-inc/0ZCH0020FF2E/4156119</datasheet>
+      <fields>
+        <field name="Digikey">507-1784-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="Thermistor_PTC_US" description="Temperature dependent resistor, positive temperature coefficient, US symbol"/>
+      <property name="Digikey" value="507-1784-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e10bca41-81ac-4997-974b-59d5f220ed49</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>CR110</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="ESC_Electronics" part="CR110" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f55ff7d-1d32-4522-a38e-b22c5dca6507</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SiPhotodiode</value>
+      <footprint>Connector_Wire:SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm</footprint>
+      <libsource lib="ESC_Electronics" part="SiPhotodiode" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6c36a61-be9b-4e0e-80a4-d48420033ad2</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TL072</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm_Socket</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/texas-instruments/TL072BCP/378359</datasheet>
+      <fields>
+        <field name="Digikey">296-7192-5-ND</field>
+      </fields>
+      <libsource lib="ESC_Electronics" part="TL072" description=""/>
+      <property name="Digikey" value="296-7192-5-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97bce208-2f33-403f-8d9d-1ed134dba1dc</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LM317</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stmicroelectronics/LM317BT/5308099</datasheet>
+      <fields>
+        <field name="Digikey">497-19621-ND</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LM317_TO-220" description="1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="Digikey" value="497-19621-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d3943dd-cb79-4606-b9e4-aac3b8997c19</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TLE2426xP</value>
+      <footprint>Package_TO_SOT_THT:TO-92L_Inline_Wide</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/texas-instruments/TLE2426ILPR/1676987</datasheet>
+      <fields>
+        <field name="Digikey">296-47278-1-ND</field>
+      </fields>
+      <libsource lib="Reference_Voltage" part="TLE2426xP" description="Precision virtual ground, noise reduction pin, 4V to 40V input, DIP-8"/>
+      <property name="Digikey" value="296-47278-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d94c48e1-64c9-494c-a584-3fce1c114dab</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor_PTC_US">
+      <description>Temperature dependent resistor, positive temperature coefficient, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*PTC*</fp>
+        <fp>*Thermistor*</fp>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_PTC_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="MM3Zxx">
+      <description>300mW Zener Diode, SOD-323F</description>
+      <docs>https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm3z2v4.pdf</docs>
+      <footprints>
+        <fp>D?SOD?323F*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">MM3Zxx</field>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet">https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm3z2v4.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESC_Electronics" part="CR110">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CR110</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Input" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="-Vs" type="input"/>
+        <pin num="6" name="+Vs" type="input"/>
+        <pin num="7" name="GND" type="input"/>
+        <pin num="8" name="output" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESC_Electronics" part="SiPhotodiode">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">SiPhotodiode</field>
+        <field name="Footprint">Connector_Wire:SolderWire-2sqmm_1x02_P7.8mm_D2mm_OD3.9mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P" type="input"/>
+        <pin num="2" name="N" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESC_Electronics" part="TL072">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL072</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1OUT" type="output"/>
+        <pin num="2" name="1IN-" type="input"/>
+        <pin num="3" name="1IN+" type="input"/>
+        <pin num="4" name="VCC-" type="input"/>
+        <pin num="5" name="2IN+" type="input"/>
+        <pin num="6" name="2IN-" type="input"/>
+        <pin num="7" name="2OUT" type="output"/>
+        <pin num="8" name="VCC+" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Reference_Voltage" part="TLE2426xP">
+      <description>Precision virtual ground, noise reduction pin, 4V to 40V input, DIP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tle2426.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLE2426xP</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tle2426.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="COMMON" type="power_in"/>
+        <pin num="3" name="IN" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="NOISE_REDUCTION" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM317_TO-220">
+      <description>1.5A 35V Adjustable Linear Regulator, TO-220</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm317.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317_TO-220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm317.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="MMBT3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBT3904</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="MMBT3906">
+      <description>-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBT3906</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="ESC_Electronics">
+      <uri>C:\Users\bung\OneDrive - SLAC National Accelerator Laboratory\nEXO\ESC\ESC_Electronics\KiCAD\ESC_Electronics/ESC_Electronics.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Reference_Voltage">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Reference_Voltage.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+6VDC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VCC+" pintype="input"/>
+    </net>
+    <net code="2" name="-6VDC">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="VCC-" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="4" name="Net-(BT1-Pad1)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="BT3" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(BT1-Pad2)">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="P" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(BT2-Pad1)">
+      <node ref="BT2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="BT4" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(BT2-Pad2)">
+      <node ref="BT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BT5" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(BT3-Pad1)">
+      <node ref="BT3" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="BT5" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(BT4-Pad1)">
+      <node ref="BT4" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="BT6" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(BT6-Pad1)">
+      <node ref="BT6" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Input" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="16" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U5" pin="3" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="17" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J6" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="COMMON" pintype="power_in"/>
+    </net>
+    <net code="18" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="output" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="1OUT" pintype="output"/>
+    </net>
+    <net code="27" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(L1-Pad1)">
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(L1-Pad2)">
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="+Vs" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="N" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="-Vs" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="1IN+" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="1IN-" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="39" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="2IN+" pintype="input"/>
+    </net>
+    <net code="41" name="unconnected-(U3-Pad6)">
+      <node ref="U3" pin="6" pinfunction="2IN-" pintype="input"/>
+    </net>
+    <net code="42" name="unconnected-(U3-Pad7)">
+      <node ref="U3" pin="7" pinfunction="2OUT" pintype="output"/>
+    </net>
+    <net code="43" name="unconnected-(U5-Pad4)">
+      <node ref="U5" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U5-Pad5)">
+      <node ref="U5" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U5-Pad6)">
+      <node ref="U5" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U5-Pad7)">
+      <node ref="U5" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U5-Pad8)">
+      <node ref="U5" pin="8" pinfunction="NOISE_REDUCTION" pintype="passive"/>
+    </net>
+  </nets>
+</export>

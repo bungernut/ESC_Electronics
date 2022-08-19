@@ -353,7 +353,9 @@
     "pinned_footprint_libs": [
       "ESC_Electronics_Library"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ESC_Electronics"
+    ]
   },
   "meta": {
     "filename": "ESC_Electronics.kicad_pro",
