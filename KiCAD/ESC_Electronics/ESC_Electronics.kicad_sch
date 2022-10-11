@@ -2445,7 +2445,7 @@
   (symbol (lib_id "Device:C_Small") (at 161.29 148.59 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 15f60ce8-f9f6-4219-a4f7-60b75ad13587)
-    (property "Reference" "C?" (id 0) (at 163.83 147.3262 0)
+    (property "Reference" "C13" (id 0) (at 163.83 147.3262 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (id 1) (at 163.83 149.8662 0)
@@ -2675,7 +2675,7 @@
     (uuid 35cfbf87-dcaf-4d5c-832e-d9611d138f98)
     (property "Reference" "J6" (id 0) (at 144.78 59.69 0))
     (property "Value" "Barrel_Jack" (id 1) (at 144.78 62.23 0))
-    (property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm" (id 2) (at 146.05 69.596 0)
+    (property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm" (id 2) (at 146.05 69.596 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987" (id 3) (at 146.05 69.596 0)
@@ -3701,7 +3701,7 @@
     (uuid e6c36a61-be9b-4e0e-80a4-d48420033ad2)
     (property "Reference" "U2" (id 0) (at 64.77 66.04 0))
     (property "Value" "SiPhotodiode" (id 1) (at 64.77 80.01 0))
-    (property "Footprint" "Connector_Wire:SolderWire-1sqmm_1x02_P7.8mm_D1.4mm_OD3.9mm" (id 2) (at 64.77 74.93 0)
+    (property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm" (id 2) (at 64.77 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 64.77 74.93 0)
@@ -3990,7 +3990,7 @@
       (reference "C12") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/15f60ce8-f9f6-4219-a4f7-60b75ad13587"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C13") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/4279194e-067c-4776-b21d-089a47132a3b"
       (reference "D1") (unit 1) (value "RB751V-40") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
@@ -4047,7 +4047,7 @@
       (reference "J5") (unit 1) (value "Output") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
     )
     (path "/35cfbf87-dcaf-4d5c-832e-d9611d138f98"
-      (reference "J6") (unit 1) (value "Barrel_Jack") (footprint "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm")
+      (reference "J6") (unit 1) (value "Barrel_Jack") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm")
     )
     (path "/9130d071-ea24-455f-bfb6-ea618ccf9d3d"
       (reference "J7") (unit 1) (value "-6V") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -4131,7 +4131,7 @@
       (reference "U1") (unit 1) (value "CR110") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/e6c36a61-be9b-4e0e-80a4-d48420033ad2"
-      (reference "U2") (unit 1) (value "SiPhotodiode") (footprint "Connector_Wire:SolderWire-1sqmm_1x02_P7.8mm_D1.4mm_OD3.9mm")
+      (reference "U2") (unit 1) (value "SiPhotodiode") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm")
     )
     (path "/97bce208-2f33-403f-8d9d-1ed134dba1dc"
       (reference "U3") (unit 1) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm_Socket")
