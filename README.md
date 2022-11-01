@@ -1,5 +1,6 @@
 # ESC_Electronics
-Digikey Link to order components for 1 board https://www.digikey.com/short/90zfqphj
+Digikey Link to order components for 1 assembly
+https://www.digikey.com/short/7tf1nch1
 
 
 |Reference(s)|Value|Digikey|Datasheet|
@@ -20,7 +21,7 @@ Digikey Link to order components for 1 board https://www.digikey.com/short/90zfq
 |J1|-1000VDC|2737-RHV-116-ND|https://www.digikey.com/en/products/detail/rf-industries/RHV-116/13159383|
 |J2|Test Input|ARF2005-ND|https://www.digikey.com/en/products/detail/amphenol-rf/031-5640/3593524|
 |J3|CA probe||~|
-|J4|DC Power||~|
+|J4|DC Power|WM22644-ND|https://www.digikey.com/en/products/detail/molex/1719710002/9564227|
 |J5|Output|ARF2005-ND|https://www.digikey.com/en/products/detail/amphenol-rf/031-5640/3593524|
 |J6|Barrel_Jack|839-1580-ND|https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987|
 |J7|-6V||~|
@@ -49,3 +50,13 @@ Digikey Link to order components for 1 board https://www.digikey.com/short/90zfq
 |U4|LM317|497-19621-ND|https://www.digikey.com/en/products/detail/stmicroelectronics/LM317BT/5308099|
 |U5|TLE2426xP|296-47278-1-ND|https://www.digikey.com/en/products/detail/texas-instruments/TLE2426ILPR/1676987|
 
+Other items for assembly:
+| Part | Ref | Link |
+|-|-|-|
+|8 PDIP Socket | U3 |  https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/1-2199298-2/5022039 |
+| Red HV Hookup Wire | | https://www.digikey.com/en/products/detail/cnc-tech/3239-24-1-0500-004-1-TS/5968804 |
+|BLK HV Hookup Wire | | https://www.digikey.com/en/products/detail/cnc-tech/3239-24-1-0500-001-1-TS/5968800 |
+| Electronic Box | | https://www.digikey.com/en/products/detail/bud-industries/CN-5709/1219181 |
+| SHV Bulkhead | | https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/51494-2/298100 |
+| DC Power Cable Assembled| J4 | https://www.digikey.com/en/products/detail/molex/2162701023/13427340 | 
+| DC power bulkhead | J4 | https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987 |
