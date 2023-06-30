@@ -4073,7 +4073,7 @@
   (gr_text "<P1" (at 104.75 72.25) (layer "F.SilkS") (tstamp aec122ad-0981-45b0-b97d-0df8d3ebfa53)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "ESC Electronics V2" (at 159 57) (layer "F.SilkS") (tstamp b4a1dc7d-2889-4545-8a1c-9c2e8e15c567)
+  (gr_text "ESC Electronics V2b" (at 159 57) (layer "F.SilkS") (tstamp b4a1dc7d-2889-4545-8a1c-9c2e8e15c567)
     (effects (font (size 1.5 1.5) (thickness 0.2)))
   )
   (gr_text "!!HIGH VOLTAGE!!" (at 175.75 65) (layer "F.SilkS") (tstamp b978dd92-df0a-4d17-8ba1-0e731c6bab2c)
