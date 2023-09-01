@@ -1,3 +1,6 @@
+# Board
+Order the board at oshpark https://oshpark.com/shared_projects/DPPSXTof (V2b)
+
 # ESC_Electronics
 Digikey Link to order components for 1 assembly
 https://www.digikey.com/short/7tf1nch1
