@@ -1,10 +1,10 @@
 # Board
-Order the board at oshpark https://oshpark.com/shared_projects/DPPSXTof (V2b)
+Order the board at oshpark 
 
 # ESC_Electronics
 
-|Reference(s)|Value|Digikey|Datasheet|
-|-|-|-|-|
+|Reference(s)|Value|Digikey|
+|-|-|-|
 | Ref | Value | Digikey |
 | BT1, BT2, BT3, BT4, BT5, BT6 | 12V | BH23APC-ND |
 | C1, C4 | 10uF | 1276-1096-1-ND |
