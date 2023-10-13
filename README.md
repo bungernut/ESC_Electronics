@@ -1,8 +1,11 @@
+# Board
+Order the board at oshpark https://oshpark.com/shared_projects/LPLUU39w
+
 # ESC_Electronics
 Digikey: https://www.digikey.com/short/nt3pmbw5
 
 
-|Reference(s)|Value|Digikey|Datasheet|
+|Reference(s)|Value|Digikey|
 |-|-|-|-|
 | BT1, BT2, BT3, BT4, BT5, BT6 | 12V | BH23APC-ND |
 | C1, C4 | 10uF | 1276-1096-1-ND |
