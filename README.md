@@ -1,5 +1,5 @@
 # Board
-Order the board at oshpark 
+Order the board at oshpark https://github.com/bungernut/ESC_Electronics
 
 # ESC_Electronics
 
