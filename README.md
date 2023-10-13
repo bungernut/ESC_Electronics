@@ -2,21 +2,23 @@
 Order the board at oshpark https://oshpark.com/shared_projects/LPLUU39w
 
 # ESC_Electronics
+Digikey: https://www.digikey.com/short/nt3pmbw5
+
 
 |Reference(s)|Value|Digikey|
 |-|-|-|
-| Ref | Value | Digikey |
 | BT1, BT2, BT3, BT4, BT5, BT6 | 12V | BH23APC-ND |
 | C1, C4 | 10uF | 1276-1096-1-ND |
 | C2 | open |  |
-| C3, C7 | 1nF | 445-181696-ND |
+| C3, C7 | 1nF | 399-CGP1C102KNYDAAWL25-ND |
 | C5 | 1pF | 445-180733-1-ND |
-| C6 | 4700pF | 445-175513-ND |
-| C8 | open | 1276-1096-1-ND |
-| C9, C10, C15, C16 | 0.1uF | 1276-2926-1-ND |
+| C6 | 4700pF | 399-CGP1C472MNWDAAWL25-ND |
+| C8 | open |  |
+| C9, C10, C15, C16 | 0.1uF | 1276-1003-1-ND |
 | C11, C12 | 330uF | 1189-1766-ND |
 | C13, C14 | 0.33uF | 1276-2926-1-ND |
 | D1, D2 | RB751V-40 | MBR0540TPMSCT-ND |
+| F1, F2 | Polyfuse_Small | 507-1794-1-ND |
 | FB1, FB2 | FerriteBead_Small | 732-6715-1-ND |
 | H1, H2, H3, H4 | MountingHole |  |
 | H5 | DiodeFeedThru |  |
@@ -31,13 +33,13 @@ Order the board at oshpark https://oshpark.com/shared_projects/LPLUU39w
 | J8 | -8V |  |
 | J9 | +8V |  |
 | R1 | open |  |
-| R2, R3, R5 | 10M | HVA12FA10M0 |
+| R2, R3, R5 | 10M | HVA12FA10M0CT-ND |
 | R4 | 100M | HVA12FA100MCT-ND |
 | R6 | 47 | RPC0805JT47R0 |
 | R7 | open |  |
 | R8 | 0 | RMCF0805ZT0R00 |
-| R9 | 750 |  |
-| R10 | 20k |  |
+| R9 | 750 | RMCF0805FT750RCT-ND |
+| R10 | 20k | RMCF0805FT20K0CT-ND |
 | RV1 | 10k | 3266W-103LF-ND |
 | U1 | CR110 | ED11161-ND |
 | U2 | SiPhotodiode |  |
