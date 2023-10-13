@@ -1,5 +1,5 @@
 # Board
-Order the board at oshpark https://github.com/bungernut/ESC_Electronics
+Order the board at oshpark https://oshpark.com/shared_projects/LPLUU39w
 
 # ESC_Electronics
 
