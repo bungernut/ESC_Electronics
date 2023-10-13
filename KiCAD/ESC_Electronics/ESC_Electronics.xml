@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\bung\Documents\ESC_Electronics\KiCAD\ESC_Electronics\ESC_Electronics.kicad_sch</source>
-    <date>10/12/2023 3:24:08 PM</date>
+    <date>10/12/2023 7:09:06 PM</date>
     <tool>Eeschema 7.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -150,12 +150,12 @@
     <comp ref="C3">
       <value>1nF</value>
       <footprint>Capacitor_THT:C_Disc_D10.5mm_W5.0mm_P10.00mm</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/tdk-corporation/CK45-B3FD102KYGNA/4457522</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/CGP1C102KNYDAAWL25/19110266</datasheet>
       <fields>
-        <field name="Digikey">445-181696-ND</field>
+        <field name="Digikey">399-CGP1C102KNYDAAWL25-ND</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="445-181696-ND"/>
+      <property name="Digikey" value="399-CGP1C102KNYDAAWL25-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -198,12 +198,12 @@
     <comp ref="C6">
       <value>4700pF</value>
       <footprint>Capacitor_THT:C_Disc_D12.5mm_W5.0mm_P10.00mm</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/tdk-corporation/CK45-B3DD472KYNNA/7383746</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/CGP1C472MNWDAAWL25/19110125?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbRADYAOAJnIGYQCwaAGAdgFZGRqw64IAXQIAHAC5QQAZTEAnAJYA7AOYgAvgQ4tKCEMkjps%2BIqR5w6O4SHGSZCleqYBOSk937DuAsUhkWIQQ0eFlg3aD1UTC8TXxBYNhYWAAIRADEA0QlIEABVRXkxAHkUAFkcNCwAV1kcRxAAWmp3KDlK4x8yLkC1NSA</datasheet>
       <fields>
-        <field name="Digikey">445-175513-ND</field>
+        <field name="Digikey">399-CGP1C472MNWDAAWL25-ND</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="445-175513-ND"/>
+      <property name="Digikey" value="399-CGP1C472MNWDAAWL25-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -214,12 +214,12 @@
     <comp ref="C7">
       <value>1nF</value>
       <footprint>Capacitor_THT:C_Disc_D10.5mm_W5.0mm_P10.00mm</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/tdk-corporation/CK45-B3FD102KYGNA/4457522</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/CGP1C102KNYDAAWL25/19110266</datasheet>
       <fields>
-        <field name="Digikey">445-181696-ND</field>
+        <field name="Digikey">399-CGP1C102KNYDAAWL25-ND</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="445-181696-ND"/>
+      <property name="Digikey" value="399-CGP1C102KNYDAAWL25-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -230,12 +230,8 @@
     <comp ref="C8">
       <value>open</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754</datasheet>
-      <fields>
-        <field name="Digikey">1276-1096-1-ND</field>
-      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="1276-1096-1-ND"/>
+      <property name="Digikey" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -246,12 +242,12 @@
     <comp ref="C9">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KACNNNC/3886757</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661</datasheet>
       <fields>
-        <field name="Digikey">1276-1099-1-ND</field>
+        <field name="Digikey">1276-1003-1-ND</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="1276-1099-1-ND"/>
+      <property name="Digikey" value="1276-1003-1-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -262,12 +258,12 @@
     <comp ref="C10">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KACNNNC/3886757</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661</datasheet>
       <fields>
-        <field name="Digikey">1276-1099-1-ND</field>
+        <field name="Digikey">1276-1003-1-ND</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="1276-1099-1-ND"/>
+      <property name="Digikey" value="1276-1003-1-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -342,12 +338,12 @@
     <comp ref="C15">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNFNE/3888584</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661</datasheet>
       <fields>
-        <field name="Digikey">1276-2926-1-ND</field>
+        <field name="Digikey">1276-1003-1-ND</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="1276-2926-1-ND"/>
+      <property name="Digikey" value="1276-1003-1-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -358,12 +354,12 @@
     <comp ref="C16">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNFNE/3888584</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661</datasheet>
       <fields>
-        <field name="Digikey">1276-2926-1-ND</field>
+        <field name="Digikey">1276-1003-1-ND</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Digikey" value="1276-2926-1-ND"/>
+      <property name="Digikey" value="1276-1003-1-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -733,12 +729,12 @@
     <comp ref="R5">
       <value>10M</value>
       <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal</footprint>
-      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/HVA12FA10M0/6195859</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/HVA12FA10M0/6195859?s=N4IgTCBcDaIBIDUCCBGMAxVAGAslgwgCoC0AcgCIgC6AvkA</datasheet>
       <fields>
-        <field name="Digikey">HVA12FA10M0</field>
+        <field name="Digikey">HVA12FA10M0CT-ND</field>
       </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
-      <property name="Digikey" value="HVA12FA10M0"/>
+      <property name="Digikey" value="HVA12FA10M0CT-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Resistor, small US symbol"/>
@@ -792,7 +788,12 @@
     <comp ref="R9">
       <value>750</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT750R/1760518</datasheet>
+      <fields>
+        <field name="Digikey">RMCF0805FT750RCT-ND</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RMCF0805FT750RCT-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Resistor, small US symbol"/>
@@ -803,7 +804,12 @@
     <comp ref="R10">
       <value>20k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT20K0/1760314</datasheet>
+      <fields>
+        <field name="Digikey">RMCF0805FT20K0CT-ND</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="RMCF0805FT20K0CT-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESC_Electronics.kicad_sch"/>
       <property name="ki_description" value="Resistor, small US symbol"/>
