@@ -62,3 +62,7 @@ Other items for assembly:
 | Power Supply | | https://www.digikey.com/en/products/detail/xp-power/ECL15UD01-S/4487543 |
 | Power Resistors (2x) | | https://www.digikey.com/en/products/detail/ohmite/HS50-100R-J/5307799 |
 | AC power feedthrough | | https://www.digikey.com/en/products/detail/davies-molding-llc/GC1000-A/7795436 |
+
+Photo of a completed board:
+
+<img width="373" alt="e-board" src="https://github.com/user-attachments/assets/cd04a711-ea94-49ce-9663-d4fd075c336f" />
